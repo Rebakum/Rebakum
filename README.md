@@ -40,8 +40,6 @@
     <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
   </a>
 </p>
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 ## 📈 Current stats
@@ -49,10 +47,11 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Rebakum&theme=tokyonight&mode=weekly&type=png"/></div>
 
-<a href="https://github.com/Rebakum-stack"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebakum-stack&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
-<a href="https://github.com/Rebakum-stack"><img src="https://github-readme-stats.vercel.app/api?username=Rebakum-stack&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
+<a href="https://github.com/Rebakum"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rebakum&show_icons=true&locale=en&theme=tokyonight&layout=compact" width="45%" /></a>
+<a href="https://github.com/ASLAM-stack"><img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&locale=en&theme=tokyonight" width="50%" /></a>
 
-
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Rebakum)
+ 
  
 
 
