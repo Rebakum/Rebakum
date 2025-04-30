@@ -46,7 +46,8 @@ I'm **Mst: Rebeka Sultana**, a passionate **Junior MERN Stack Developer** who lo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rebakum&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&theme=tokyonight" />
+
 </div>
 
 <p align="center">
