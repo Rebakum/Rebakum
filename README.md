@@ -46,21 +46,20 @@ I'm **Mst: Rebeka Sultana**, a passionate **front-end developer** who loves craf
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rebakum&show_icons=true&theme=tokyonight" width="48%" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rebakum&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Rebakum">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebakum&layout=compact&theme=tokyonight" width="45%" />
-  </a>
-  <a href="https://github.com/Rebakum">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rebakum&show_icons=true&theme=tokyonight" width="50%" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Rebakum" alt="Advanced GitHub Stats" />
-</p>
+<div align="center">
+
+  <!-- Advanced Stats (Stable Version) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rebakum&theme=tokyonight" width="90%" />
+
+</div>
 
 ---
