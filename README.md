@@ -11,9 +11,9 @@
 ## 👩‍💻 About Me
 
 **Hello there! 👋**  
-I'm **Mst: Rebeka Sultana**, a passionate **front-end developer** who loves crafting dynamic, responsive, and user-friendly web applications. My journey in web development is centered around the **MERN stack** – MongoDB, Express.js, React, and Node.js.
+I'm **Mst: Rebeka Sultana**, a passionate **front-end developer** who loves crafting dynamic, responsive, and user-friendly web applications. My journey in web development is centered around the **MERN stack** – MongoDB, Express.js, React, and Node.js, PostgreSQL, Prisma, Docker.
 
-- 🌱 Currently learning: **Next.js**, **Express.js**
+- 🌱 Currently learning: **PostgreSQL**, **Prisma**
 - ❓ Ask me about: **MERN Stack** and related technologies
 - ⚡ Fun fact: I use **tabs over spaces** 😄
 
