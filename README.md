@@ -38,7 +38,7 @@ I'm **Mst: Rebeka Sultana**, a passionate **front-end developer** who loves craf
 ## ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,nodejs,express,mongodb,firebase,figma,github,postgreSQL,prisma,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,nodejs,express,mongodb,firebase,figma,github,postgresql,prisma,docker," />
 </p>
 
 ---
